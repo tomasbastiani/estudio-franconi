@@ -1,0 +1,9 @@
+.navbar{
+    position: relative;
+    top: 30px;
+    float: right;
+}
+
+.dropdown-toggle nav-link{
+    color: #d2b99b;
+}

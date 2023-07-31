@@ -1,0 +1,17 @@
+.contenedor {
+    background-image: url(https://i.postimg.cc/jd9HbpJr/estudio-franconi-fondo-2.jpg);
+    background-color: #474747;
+    background-blend-mode: soft-light;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-position: center;
+    height: 90vh;
+  }
+
+h1, button{
+  
+}

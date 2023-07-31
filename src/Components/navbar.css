@@ -1,0 +1,14 @@
+img{
+    height: 75px;
+}
+
+.botonera {
+    display: flex;
+    margin-left: auto;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+}
+  
